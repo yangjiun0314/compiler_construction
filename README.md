@@ -1,4 +1,4 @@
-# Database Systems
+# Compiler Construction
 
 강의·과제·팀프로젝트 산출물을 **주차별 폴더**로 정리합니다.  
 아래 주차 표는 푸시 시 자동으로 갱신됩니다.
@@ -6,9 +6,9 @@
 ## 주차 인덱스 (Auto)
 | Week | Topic | Notes | Tistory |
 |---|---|---|---|
-| 01 | 01 · Overview | [01_overview](./01_overview/README.md) | [바로가기](url: https://hedycode.tistory.com/42) |
-| 02 | 02 · Lexical Analysis | [02_lexical_analysis](./02_lexical_analysis/README.md) | [바로가기](url: https://hedycode.tistory.com/manage/posts/) |
-| 03 | 03 · Automata & Scanner Patterns | [03_automata_scanner](./03_automata_scanner/README.md) |  |
+| 01 | Week 01 — 데이터베이스 소개 (관계형 기본) | [01_intro](./01_intro/README.md) | [바로가기](https://hedycode.tistory.com/38) |
+| 02 | Week 02 — DB 시스템 아키텍처 & 데이터 모델 (롱폼) | [02_db_architecture](./02_db_architecture/README.md) | [바로가기](https://hedycode.tistory.com/45) |
+| 03 | Week 03 — Relational Model & Integrity Constraints | [03_relational_madel](./03_relational_madel/README.md) |  |
 
 ## 바로가기
 - 주차 폴더 루트: [./](./)
